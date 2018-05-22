@@ -1,0 +1,40 @@
+body header 
+{
+    width: 100%;
+    background-color: darkgray;
+    text-align: center;
+    position: absolute;
+    bottom: 100;
+}
+#name
+{
+    float: left;
+    margin-top: 100px;
+}
+#contact
+{
+    float: right;
+    margin-top: 100px;
+}
+#content p
+{
+    float: right;
+    width: 70%;
+}
+#content img
+{
+    float: left;
+    width: 25%;
+}
+#content
+{
+    width: 800px;
+}
+
+footer
+{
+    background-color: darkgray;
+    height: 50px;
+    position:absolute;
+    bottom:0;
+}
